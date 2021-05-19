@@ -1,0 +1,24 @@
+{
+  "name": "@derdeka/ads.txt",
+  "version": "0.0.1",
+  "description": "ads.txt parser and generator in TypeScript",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ads.txt",
+    "ads",
+    "parse"
+  ],
+  "author": "derdeka <derdeka@blackslash.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derdeka/ads.txt/issues"
+  },
+  "homepage": "https://github.com/derdeka/ads.txt#readme",
+  "devDependencies": {
+    "typescript": "4.2.4"
+  }
+}
