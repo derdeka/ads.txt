@@ -1,6 +1,6 @@
 {
   "name": "@derdeka/ads.txt",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ads.txt parser and generator in TypeScript",
   "main": "lib/index.js",
   "scripts": {
